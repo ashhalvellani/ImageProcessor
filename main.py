@@ -1,8 +1,3 @@
-# CMPT 120 Yet Another Image Processer
-# Starter code for main.py 
-# Date: December 1, 2021
-# Description: Image Processor Final Project
-
 import cmpt120imageProjHelper
 import cmpt120imageManip
 import tkinter.filedialog
