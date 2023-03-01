@@ -1,8 +1,3 @@
-# CMPT 120 Yet Another Image Processer
-# Starter code for cmpt120imageManip.py
-# Date: December 1, 2021
-# Description: Image Processor Final Project
-
 from cmpt120imageProjHelper import getBlackImage, rgb_to_hsv
 
 
