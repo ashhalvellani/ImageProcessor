@@ -1,7 +1,5 @@
 # CMPT 120 Yet Another Image Processer
 # Starter code for cmpt120imageManip.py
-# Author 1: Ashhal Vellani | D300 | 301459228 
-# Author 2: Muhammad Aman-Ul-Haq | D200 | 301469945 
 # Date: December 1, 2021
 # Description: Image Processor Final Project
 
